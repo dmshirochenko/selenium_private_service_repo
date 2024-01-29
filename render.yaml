@@ -3,4 +3,4 @@ services:
   - type: pserv
     name: selenium-standalone-chrome-debug
     env: docker
-    dockerfilePath: ./Dockerfile.selenium
+    dockerfilePath: ./Dockerfile
